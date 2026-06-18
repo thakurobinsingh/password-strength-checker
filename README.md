@@ -45,7 +45,7 @@ Basic cybersecurity awareness
 
 ## WEBSITE VERSION LINK
 
-passwardchecker.netlify.app
+https://passwardchecker.netlify.app/
 
 ## Author
 
