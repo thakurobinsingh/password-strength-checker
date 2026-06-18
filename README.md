@@ -14,9 +14,13 @@ Classifies passwords as Weak / Medium / Strong
 
 ## Scoring Formula
 Score = Length + Uppercase + Lowercase + Number + Special Character
+
 Maximum Score = 5
+
 Score 0-2 , strength- Weak
+
 Score 3-4 , Strength - Medium
+
 Scroe 5  , strenght - strong 
 
 ## Technologies Used
